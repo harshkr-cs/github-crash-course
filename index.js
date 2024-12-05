@@ -1,9 +1,9 @@
 const age=24;
-const name1='Harsh Kumar';
+const name='Harsh Kumar';
 const dob='01/01/2000';
 
 function sayName(){
-    console.log("My name is "+ name1);
+    console.log(`My Name is ${name}`);
 }
 
 function newFn(){
