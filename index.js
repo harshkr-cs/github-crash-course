@@ -14,3 +14,8 @@ function isAbove18(){
     return age>=18;
 
 }
+
+
+function newFeatures(){
+    console.log("This is a new feature");
+}
